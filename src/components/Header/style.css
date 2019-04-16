@@ -1,0 +1,17 @@
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+}
+
+header img{
+    max-width: 50px;
+}
+
+header h1 {
+    margin: 0;
+    vertical-align: bottom;
+    font-size: 36px;
+}
