@@ -3,15 +3,14 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom: 1px solid #ddd;
+    /*border-bottom: 1px solid #ddd;*/
 }
 
 header img{
-    max-width: 50px;
+    max-width: 80px;
 }
 
 header h1 {
-    margin: 0;
-    vertical-align: bottom;
     font-size: 36px;
+    padding-top: 8px;
 }
