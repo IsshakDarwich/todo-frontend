@@ -3,8 +3,10 @@ import React, { Component } from 'react';
 import logo from "../../assets/logo.png";
 import './style.css';
 
-export default class Header extends Component {
-  render() {
+export default class Header extends Component
+{
+  render()
+  {
     return(    
       <div>
         <header>

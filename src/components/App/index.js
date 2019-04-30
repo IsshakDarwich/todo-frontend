@@ -8,8 +8,10 @@ import './style.css';
 
 //{this.props.children}
 
-export default class App extends Component {
-  render() {
+export default class App extends Component
+{
+  render()
+  {
     return(
         <div id="main-container">
             <Header />
